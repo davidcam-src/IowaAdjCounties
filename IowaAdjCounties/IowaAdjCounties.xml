@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <assembly>
+        <name>IowaAdjCounties</name> 
+    </assembly>
+    <members>
+        <!-- Comments for MainController -->
+        <member name="T:IowaAdjCounties.Controllers.MainController">
+            <summary>
+                Gets information about counties based on county codes.
+            </summary>
+            <param name="countyCode1">The code of the first county.</param>
+            <param name="countyCode2">The code of the second county.</param>
+            <returns>Information about the specified counties.</returns>
+        </member>
+    </members>
+</doc>
